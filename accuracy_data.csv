@@ -1,0 +1,4 @@
+Model,Train Accuracy,Test Accuracy
+XGBoost,86.8625,85.2
+Random Forest,84.95,83.5
+Neural Network,84.3875,83.1
