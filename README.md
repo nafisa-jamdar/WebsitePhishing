@@ -1,6 +1,6 @@
 #  **Phishing Website Detection Using XGBoost**  
 
-
+<img width="336" alt="Image" src="https://github.com/user-attachments/assets/55ee7bb5-8ef2-4f55-abe3-833e5c2a4eb9" />
 
 ## **Overview**  
 This project is designed to **detect phishing websites** by analyzing URL features using **machine learning models**. The primary model utilized in this project is **XGBoost (Extreme Gradient Boosting)**, which is known for its high performance in classification tasks. Additionally, **Random Forest** and **Neural Networks** are also used for model comparison. The project is deployed using **Flask Framework** to create a web application that allows users to test URLs for phishing attempts.  
